@@ -18,14 +18,6 @@
   url: http://www.biezi.com/
   img: https://cdn.jsdelivr.net/gh/hassanblog/CDN/navi/alphabet/Letter_C.png
   description: 为文章检查错别字
-- name: Mirror List - 镜像列表
-  url: https://www.library.ac.cn/
-  img: https://cdn.jsdelivr.net/gh/hassanblog/CDN/navi/alphabet/Letter_M.png
-  description: 访问海外镜像站点列表
-- name: Swiper 中文网
-  url: https://www.swiper.com.cn/
-  img: https://www.swiper.com.cn/templets/default/images/logo.png
-  description: 目前应用较广泛的移动端网页触摸内容滑动js插件
 - name: HTML👉JADE/PUG
   url: http://html2jade.org/
   img: http://html2jade.org/favicon.ico

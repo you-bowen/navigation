@@ -1,0 +1,19 @@
+- name: 正则表达式测试
+  url: https://c.runoob.com/front-end/854/
+  description: 菜鸟-正则表达式测试工具
+- name: compiler explorer
+  url: https://www.godbolt.org/
+  img: https://www.godbolt.org/favicon.ico?v=1
+  description: 输入c代码，得到实时汇编
+- name: wolframalpha
+  url: https://www.wolframalpha.com/
+  img: https://www.wolframalpha.com/_next/static/images/favicon_fzx75d1e.ico
+  description: 数学计算 高等数学
+- name: cmd5
+  url: https://www.cmd5.org/
+  img: https://www.cmd5.org/favicon.ico
+  description: 破解md5
+- name: clash
+  url: http://clash.razord.top/#/proxies
+  img: http://clash.razord.top/assets/logo.b453e72f.png
+  description: 远程管理代理

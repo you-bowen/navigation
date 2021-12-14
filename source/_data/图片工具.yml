@@ -1,3 +1,11 @@
+- name: tinypng 🔥
+  url: https://tinypng.com/
+  img: https://tinypng.com/images/favicon.ico
+  description: 图片压缩网站
+- name: remove bg 🔥
+  url: https://www.remove.bg/zh/upload
+  img: https://www.remove.bg/favicon.ico?v=YAXaAv7pao
+  description: 图片压缩网站
 - name: Canva - 可画 🔥
   url: https://www.canva.cn/
   img: https://static.canva.cn/static/images/favicon.ico

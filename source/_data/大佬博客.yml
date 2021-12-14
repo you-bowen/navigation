@@ -1,0 +1,21 @@
+- name: nuoye
+  url: https://nuoye-blog.github.io/
+  description: pwn-nuoye
+  
+- name: rk700
+  url: http://rk700.github.io/
+  img: http://rk700.github.io/img/avatar.jpg
+  description: pwn-rk700
+
+- name: bestwing
+  url: https://bestwing.me/
+  img: https://bestwing.me/images/logo.png
+  description: bestwing 大佬
+- name: 安全客
+  url: https://www.anquanke.com/
+  img: https://s3.ssl.qhres2.com/static/02b5158bbb6adeac.ico
+  description: 安全客
+- name: lantern
+  url: https://lantern.cool/
+  img: https://lantern.cool/img/favicon.png
+  description: lantern的博客

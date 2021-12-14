@@ -1,0 +1,68 @@
+- name: huawei cloud
+  url: https://console.huaweicloud.com/ecm/?region=cn-north-4#/ecs/manager/vmList
+  img: https://res.hc-cdn.com/ibiza-obsflow/21.8.2/hws/favicon.ico?ttl=86692505
+  description: 华为云
+- name: aliyun
+  url: https://ecs.console.aliyun.com/#/home
+  img: https://g.alicdn.com/aliyun/console/1.5.29/styles/images/favicon.ico
+  description: 阿里云
+- name: tencent clond
+  url: https://console.cloud.tencent.com/lighthouse/instance/index
+  img: https://cloudcache.tencentcs.com/qcloud/app/resource/ac/favicon.ico
+  description: 腾讯云
+- name: 阿里云域名
+  url: https://dc.console.aliyun.com/next/index
+  img: https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico
+  description: 阿里云域名管理
+- name: Hassan's Blog 🔥
+  url: https://hassanwong.top/
+  img: https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210405/navi/logos/myblog.png
+  description: 我的个人博客，欢迎访问~
+- name: 本站搭建教程 🔥
+  url: https://hassanwong.top/posts/61c6c2e8/
+  img: https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210405/navi/logos/myblog.png
+  description: Hexo版WebStack导航网站搭建教程，欢迎留言~
+- name: 诗颂的文档
+  url: https://doc.hassanwong.top/
+  img: https://cdn.jsdelivr.net/gh/hassanblog/CDN/img/favicon.png
+  description: 我的文档网站
+- name: 诗颂的八音盒
+  url: https://mb.hassanwong.top/
+  img: https://cdn.jsdelivr.net/gh/hassanblog/CDN/img/favicon.png
+  description: 基于Vue框架使用网易云接口的音乐网站
+- name: 诗颂的画廊
+  url: https://gal.hassanwong.top/
+  img: https://cdn.jsdelivr.net/gh/hassanblog/CDN/img/favicon.png
+  description: 3D相册网站
+- name: 阿里云
+  url: https://dc.console.aliyun.com/next/index
+  img: https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico
+  description: 本站域名管理
+- name: Vercel - Dashboard
+  url: https://vercel.com/hassanblog
+  img: https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png
+  description: 本站代码部署
+- name: LeanCloud
+  url: https://console.leancloud.app/login
+  img: https://console.leancloud.app/favicon.ico
+  description: 本站友链朋友圈、哔哔后台
+- name: 百度搜索资源平台
+  url: https://ziyuan.baidu.com/linksubmit/index?site=http://hassanwong.top/
+  img: https://ziyuan.baidu.com/favicon.ico
+  description: 本站收录平台
+- name: 百度统计
+  url: https://tongji.baidu.com/web/10000330339/overview/index?siteId=16324130
+  img: https://tongji.baidu.com/favicon.ico
+  description: 本站数据统计
+- name: 站长工具
+  url: http://tool.chinaz.com/
+  img: http://csstools.chinaz.com/favicon.ico
+  description: 站长工具是站长的必备工具，可以了解SEO数据变化等等
+- name: 网站测速 - Ping.cn
+  url: https://www.ping.cn/
+  img: https://www.ping.cn/favicon.ico
+  description: 免费提供网站速度测试
+- name: Cloudflare
+  url: https://dash.cloudflare.com/f2f657ef88142b794b30a3e5754d73e3
+  img: https://dash.cloudflare.com/favicon.ico
+  description: 帮助站点抵御大多数网络攻击，确保长期在线，提升性能、访问速度
