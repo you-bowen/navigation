@@ -2,7 +2,7 @@ favicon: https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210405/navi/favicon.ico
 banner: https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210405/navi/webstack_banner_cn.png
 
 logo:
-  expanded: https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210405/navi/logo@2x.png
+  expanded: http://love4cry.cn/cry.png
   collapsed: https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210405/navi/logo-collapsed@2x.png
   dark: https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210405/navi/logo_dark@2x.png
 
@@ -18,21 +18,12 @@ menu:
   - name: 常用网站
     icon: iconfont icon-cherry
     config: 常用网站
-
   - name: coder实用工具
     icon: iconfont icon-about
     config: coder实用工具
-
   - name: 大佬博客
     icon: iconfont icon-cherry
     config: 大佬博客
-  - name: 学习
-    icon: iconfont icon-study
-    submenu:
-      - name: 英语雅思
-        icon: iconfont icon-english
-        config: 英语雅思
-
   - name: 全栈
     icon: iconfont icon-study
     submenu:
@@ -45,7 +36,6 @@ menu:
       - name: 站点运维
         icon: iconfont icon-blogroll
         config: 站点运维
-
   - name: 日常
     icon: iconfont icon-study
     submenu:
@@ -61,7 +51,12 @@ menu:
       - name: 大学常用
         icon: iconfont icon-book
         config: 大学常用
-
+  - name: 学习
+    icon: iconfont icon-study
+    submenu:
+      - name: 英语雅思
+        icon: iconfont icon-english
+        config: 英语雅思
   - name: 友链
     icon: iconfont icon-blogroll
     config: 友链
